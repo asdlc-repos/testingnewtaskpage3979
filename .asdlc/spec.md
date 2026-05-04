@@ -14,4 +14,5 @@ An internal leave management system where WSO2 employees can request time off an
 - A manager can approve or reject each request.
 - Employees see the status of their submitted requests.
 - Everyone can view their current leave balance and entitlement.
+- employees should be type and add a name as a lead
 
