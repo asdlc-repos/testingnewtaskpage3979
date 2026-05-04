@@ -1,0 +1,12 @@
+apiVersion: openchoreo.dev/v1alpha1
+metadata:
+  name: user-service
+
+endpoints:
+  - name: http
+    type: HTTP
+    port: 9091
+    basePath: /
+    visibility:
+      - project
+      - external
